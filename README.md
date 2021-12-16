@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshitprj
+- 👋 Hi, I’m @harshit_prj
 - 👀 I’m interested in programming and graphic designing 
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on interships
